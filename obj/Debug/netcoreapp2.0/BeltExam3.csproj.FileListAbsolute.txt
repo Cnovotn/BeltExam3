@@ -1,0 +1,11 @@
+/Users/claytonnovotney/Desktop/Coding Dojo/C#Stack/BeltExam3/bin/Debug/netcoreapp2.0/BeltExam3.deps.json
+/Users/claytonnovotney/Desktop/Coding Dojo/C#Stack/BeltExam3/bin/Debug/netcoreapp2.0/BeltExam3.runtimeconfig.json
+/Users/claytonnovotney/Desktop/Coding Dojo/C#Stack/BeltExam3/bin/Debug/netcoreapp2.0/BeltExam3.runtimeconfig.dev.json
+/Users/claytonnovotney/Desktop/Coding Dojo/C#Stack/BeltExam3/bin/Debug/netcoreapp2.0/BeltExam3.dll
+/Users/claytonnovotney/Desktop/Coding Dojo/C#Stack/BeltExam3/bin/Debug/netcoreapp2.0/BeltExam3.pdb
+/Users/claytonnovotney/Desktop/Coding Dojo/C#Stack/BeltExam3/obj/Debug/netcoreapp2.0/BeltExam3.csprojResolveAssemblyReference.cache
+/Users/claytonnovotney/Desktop/Coding Dojo/C#Stack/BeltExam3/obj/Debug/netcoreapp2.0/BeltExam3.csproj.CoreCompileInputs.cache
+/Users/claytonnovotney/Desktop/Coding Dojo/C#Stack/BeltExam3/obj/Debug/netcoreapp2.0/BeltExam3.AssemblyInfoInputs.cache
+/Users/claytonnovotney/Desktop/Coding Dojo/C#Stack/BeltExam3/obj/Debug/netcoreapp2.0/BeltExam3.AssemblyInfo.cs
+/Users/claytonnovotney/Desktop/Coding Dojo/C#Stack/BeltExam3/obj/Debug/netcoreapp2.0/BeltExam3.dll
+/Users/claytonnovotney/Desktop/Coding Dojo/C#Stack/BeltExam3/obj/Debug/netcoreapp2.0/BeltExam3.pdb
